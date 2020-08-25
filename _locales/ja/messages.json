@@ -1,0 +1,11 @@
+{
+    "countRemoved": {
+        "message": "$1 件の結果を非表示にしました。"
+    },
+    "extensionName": {
+        "message": "Web Search Filter"
+    },
+    "extensionDescription": {
+        "message": "Google 検索の結果からノイズを除去します。"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "countRemoved": {
+        "message": "Hid $1 results."
+    },
+    "extensionName": {
+        "message": "Web Search Filter"
+    },
+    "extensionDescription": {
+        "message": "Remove noise from Google search result."
+    }
+}
