@@ -28,5 +28,6 @@ const noiseDomains = [
     /^https?:\/\/www\.it-swarm\.dev\//,
     /^https?:\/\/code\.i-harness\.com\//,
     /^https?:\/\/stackoverrun\.com\//,
-    /^https?:\/\/www\.sejuku\.net\//
+    /^https?:\/\/www\.sejuku\.net\//,
+    /^https?:\/\/qastack\.jp\//,
 ];
